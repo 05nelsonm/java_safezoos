@@ -9,3 +9,4 @@ enable OAuth2 Security on the Zoos Application
 * ROLE ANIMALDATA should be allowed to access /animals
 
 * ROLE MGR (manager) should be allowed access /animals /zoos.
+
